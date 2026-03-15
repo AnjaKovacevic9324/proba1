@@ -4,5 +4,4 @@ int main(){
   int b=6
   int zbir=a+b;
   printf("Zbir je %d\n", zbir);
-  return 0;
 }
